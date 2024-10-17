@@ -42,12 +42,7 @@ public CheckOutPage goToCheckOut()
 	
 }
 
-
-
-
-
-
-
+//hi
 
 
 }
